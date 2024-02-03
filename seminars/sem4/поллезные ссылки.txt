@@ -1,0 +1,3 @@
+https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html - памятка по пандас
+https://seaborn.pydata.org/api.html - памятка по seaborn
+http://pm.samgtu.ru/sites/pm.samgtu.ru/files/materials/comp_pr/python5s_5.pdf - немного о работе с графиками при помощи matplotlib
